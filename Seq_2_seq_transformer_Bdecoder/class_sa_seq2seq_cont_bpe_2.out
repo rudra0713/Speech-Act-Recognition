@@ -1,0 +1,62 @@
+256
+epoch  1
+| Epoch: 001 | Train Loss: 2.210 | Train PPL:   9.115 | Val. Loss: 2.120 | Val. PPL:   8.333 |
+epoch  2
+| Epoch: 002 | Train Loss: 2.065 | Train PPL:   7.883 | Val. Loss: 2.078 | Val. PPL:   7.992 |
+epoch  3
+| Epoch: 003 | Train Loss: 2.035 | Train PPL:   7.649 | Val. Loss: 2.062 | Val. PPL:   7.860 |
+epoch  4
+| Epoch: 004 | Train Loss: 2.015 | Train PPL:   7.501 | Val. Loss: 2.055 | Val. PPL:   7.804 |
+epoch  5
+| Epoch: 005 | Train Loss: 2.001 | Train PPL:   7.394 | Val. Loss: 2.049 | Val. PPL:   7.763 |
+epoch  6
+| Epoch: 006 | Train Loss: 1.988 | Train PPL:   7.299 | Val. Loss: 2.047 | Val. PPL:   7.745 |
+epoch  7
+| Epoch: 007 | Train Loss: 1.974 | Train PPL:   7.201 | Val. Loss: 2.047 | Val. PPL:   7.741 |
+epoch  8
+| Epoch: 008 | Train Loss: 1.958 | Train PPL:   7.088 | Val. Loss: 2.051 | Val. PPL:   7.776 |
+epoch  9
+| Epoch: 009 | Train Loss: 1.941 | Train PPL:   6.966 | Val. Loss: 2.059 | Val. PPL:   7.835 |
+epoch  10
+| Epoch: 010 | Train Loss: 1.920 | Train PPL:   6.819 | Val. Loss: 2.069 | Val. PPL:   7.916 |
+epoch  11
+| Epoch: 011 | Train Loss: 1.895 | Train PPL:   6.653 | Val. Loss: 2.083 | Val. PPL:   8.031 |
+epoch  12
+| Epoch: 012 | Train Loss: 1.865 | Train PPL:   6.454 | Val. Loss: 2.104 | Val. PPL:   8.196 |
+epoch  13
+| Epoch: 013 | Train Loss: 1.829 | Train PPL:   6.229 | Val. Loss: 2.130 | Val. PPL:   8.412 |
+epoch  14
+| Epoch: 014 | Train Loss: 1.789 | Train PPL:   5.983 | Val. Loss: 2.166 | Val. PPL:   8.723 |
+epoch  15
+| Epoch: 015 | Train Loss: 1.745 | Train PPL:   5.725 | Val. Loss: 2.207 | Val. PPL:   9.085 |
+epoch  16
+| Epoch: 016 | Train Loss: 1.695 | Train PPL:   5.449 | Val. Loss: 2.261 | Val. PPL:   9.597 |
+epoch  17
+| Epoch: 017 | Train Loss: 1.644 | Train PPL:   5.178 | Val. Loss: 2.328 | Val. PPL:  10.256 |
+epoch  18
+| Epoch: 018 | Train Loss: 1.593 | Train PPL:   4.921 | Val. Loss: 2.410 | Val. PPL:  11.135 |
+epoch  19
+| Epoch: 019 | Train Loss: 1.545 | Train PPL:   4.687 | Val. Loss: 2.505 | Val. PPL:  12.242 |
+epoch  20
+| Epoch: 020 | Train Loss: 1.501 | Train PPL:   4.486 | Val. Loss: 2.606 | Val. PPL:  13.543 |
+epoch  21
+| Epoch: 021 | Train Loss: 1.463 | Train PPL:   4.320 | Val. Loss: 2.713 | Val. PPL:  15.075 |
+epoch  22
+| Epoch: 022 | Train Loss: 1.432 | Train PPL:   4.188 | Val. Loss: 2.817 | Val. PPL:  16.731 |
+epoch  23
+| Epoch: 023 | Train Loss: 1.408 | Train PPL:   4.086 | Val. Loss: 2.899 | Val. PPL:  18.165 |
+epoch  24
+| Epoch: 024 | Train Loss: 1.389 | Train PPL:   4.013 | Val. Loss: 2.987 | Val. PPL:  19.828 |
+epoch  25
+| Epoch: 025 | Train Loss: 1.375 | Train PPL:   3.955 | Val. Loss: 3.061 | Val. PPL:  21.359 |
+epoch  26
+| Epoch: 026 | Train Loss: 1.364 | Train PPL:   3.910 | Val. Loss: 3.127 | Val. PPL:  22.799 |
+epoch  27
+| Epoch: 027 | Train Loss: 1.355 | Train PPL:   3.876 | Val. Loss: 3.179 | Val. PPL:  24.018 |
+epoch  28
+| Epoch: 028 | Train Loss: 1.349 | Train PPL:   3.853 | Val. Loss: 3.235 | Val. PPL:  25.397 |
+epoch  29
+| Epoch: 029 | Train Loss: 1.343 | Train PPL:   3.832 | Val. Loss: 3.289 | Val. PPL:  26.819 |
+epoch  30
+| Epoch: 030 | Train Loss: 1.339 | Train PPL:   3.813 | Val. Loss: 3.318 | Val. PPL:  27.614 |
+test accuracy :  0.595243932336357
